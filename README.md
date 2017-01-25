@@ -11,7 +11,8 @@ Terms URL (Must be SSL)
 Icon URL
 Start Time
 End Time
-Transferable
+Expiration (Date Time)
+Transferable (Boolean)
 Version
 ```
 
