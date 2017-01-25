@@ -1,5 +1,5 @@
 # Blockchain Permits
-Interfaces and smart contracts for civc permits.
+Civic Ledger have defined a standard for permits and licences issued via blockchains. 
 
 ##Permit types
 ###Basic
