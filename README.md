@@ -8,6 +8,7 @@ Name
 Type
 Issuer
 Terms URL (Must be SSL)
+Icon URL
 Start Time
 End Time
 Transferable
