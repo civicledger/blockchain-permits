@@ -1,8 +1,15 @@
 # Blockchain Permits
 Civic Ledger have defined a standard for permits and licences issued via blockchains. 
 
-##Permit types
-###Basic
+## Terminology
+Grant
+Transfer
+Redeem
+Revoke
+Reclaim
+
+## Permit types
+### Basic
 ```
 Name
 Type
