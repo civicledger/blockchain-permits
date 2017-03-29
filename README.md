@@ -34,6 +34,12 @@ An example of a permit in solidity
         uint256 start;
         uint256 end;
     }
+    
+    function grant()
+    {
+        if (msg.sender != issuer) throw;
+        
+    }
 ```
 
 C# DTO for a permit
