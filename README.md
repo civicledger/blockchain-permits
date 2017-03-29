@@ -30,7 +30,9 @@ An example of a permit in solidity
         address issuer;
         string type;
         string terms;
-        uint256 income;
+        uint256 value;
+        uint256 start;
+        uint256 end;
     }
 ```
 
